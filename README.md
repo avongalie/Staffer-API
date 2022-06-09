@@ -27,6 +27,12 @@ Visit my deployed app [here.](https://avongalie.github.io/Staffer/)
 | PATCH  | `/employees/:id`       | `employees#update` |
 | DELETE | `/employees/:id`       | `employees#destroy`|
 
+## Project Planning
+
+Project Planning: Wireframes and [ERD](#entity-reletionship-diagram).
+Workflow & Decision Making: Daily work flow checklists.
+Problem Solving: Reviewed documentation, consulted 3rd party sites like w3schools.com, meet with TA's.
+
 ## Entity Reletionship Diagram
 
 ![ERD](images/ERD.png)
@@ -48,4 +54,5 @@ Employers should be able to:
 * MongoDB
 * Mongoose
 
-## Routes
+## Future Developments
+* Addition of comment storage tied to employees.
